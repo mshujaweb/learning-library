@@ -1,5 +1,5 @@
 {
-    "workshoptitle": "Migrate MySQL to Oracle ADB using Oracle SQL Developer",
+    "workshoptitle": "Migrate MySQL to Oracle Autonomou Database using Oracle SQL Developer",
     "include": {"intro":"../../intro/intro.md",
                 "labs":"../../migrtaion-tasks/migration-tasks.md"},
     "help": "livelabs-help-jpac_us@oracle.com",

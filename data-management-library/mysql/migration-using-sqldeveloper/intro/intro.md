@@ -1,4 +1,4 @@
-# Migrate MySQL to Oracle ADB using Oracle SQL Developer
+# Migrate MySQL to Oracle Autonomous Database (ADB) using Oracle SQL Developer
 
 ## Introduction
 
