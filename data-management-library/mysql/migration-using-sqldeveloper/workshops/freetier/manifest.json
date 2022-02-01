@@ -15,7 +15,7 @@
             "filename": "https://raw.githubusercontent.com/oracle/learning-library/master/common/labs/cloud-login/pre-register-free-tier-account.md"
         },
         {
-            "title": "Prereq 1 - Create ADB as Target (Optional)",
+            "title": "Prereq 1 - Create Autonomous Database (ADB) as Target (Optional)",
             "description": "This lab will help you create Oracle ADB (ADW/ATP) instance for target purpose, if you don't already have that",
             "filename": "https://raw.githubusercontent.com/oracle/learning-library/master/data-management-library/autonomous-database/shared/adb-provision/adb-provision-conditional.md"
         },

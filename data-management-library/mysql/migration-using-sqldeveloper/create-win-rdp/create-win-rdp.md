@@ -87,9 +87,10 @@ Estimated time: 15 minutes
 3. You will be prompted to confirm, authentication to connect to the server. Select, _Yes_. 
   ![](images/verification20.png)
   
-4. After this step, you will access mirror screen of your windows virtual machine server and you are all set to use it. For further details: [Here](https://docs.oracle.com/en-us/iaas/Content/GSG/Tasks/testingconnectionWindows.htm)
+4. After this step, you will access (mirror) screen of your windows virtual machine server and you are all set to use it. 
 
-5. You can login with (opc) user and provided password (you can find the password from Step 11 page). On the first login, you will be asked to change your password. Please, follow windows password policy. 
+5. You can login with (opc) user and provided password (you can find the password from Step 11 page). On the first login, you will be asked to change your password. Please, follow windows password policy. For further details regarding RDP access, you can refer: [Here](https://docs.oracle.com/en-us/iaas/Content/GSG/Tasks/testingconnectionWindows.htm)
+
 
 
 ## Acknowledgements
